@@ -6,6 +6,5 @@
 
 使用方式:
 
-   ``bash
+`bash
   bash <(curl -Ls https://raw.githubusercontent.com/sdd-tes/3xui-china/master/install.sh)
-  `
